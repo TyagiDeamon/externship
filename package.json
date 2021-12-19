@@ -1,0 +1,23 @@
+{
+  "name": "externship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyagiDeamon/externship.git"
+  },
+  "author": "Karan Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyagiDeamon/externship/issues"
+  },
+  "homepage": "https://github.com/TyagiDeamon/externship#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2"
+  }
+}
